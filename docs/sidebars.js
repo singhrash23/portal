@@ -5,11 +5,6 @@ module.exports = {
       id: "home-page",
     },
     {
-      type: "link",
-      label: "AnitaB.org",
-      href: "https://anitab.org/",
-    },
-    {
       type: "category",
       label: "How To Contribute",
       items: ['how-to-contribute', 'commit-message-style-guide', 'test-the-app', 'maintainer-guideline',],
